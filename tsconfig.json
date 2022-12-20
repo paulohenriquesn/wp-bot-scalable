@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "types": ["node"],
+    "module": "NodeNext",
+    "allowJs": false,
+    "strict": true,
+    "lib": ["ESNext"],
+    "target": "esnext",
+    "outDir": "./dist",
+    "baseUrl": ".",
+    "rootDir": "."
+  },
+  "include": ["src/**/*"]
+}
